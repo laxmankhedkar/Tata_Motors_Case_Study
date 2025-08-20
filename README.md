@@ -3,7 +3,7 @@
 ## 1. Sales Trend Analysis: Tata Motors vs. Mahindra (IANKUSH21)
 SQL-based analysis of six months’ sales data for Tata Motors and Mahindra vehicles.
 
-Covers performance comparison, model-wise trends, and market insights.
+Covers performance comparison, model-wise trends, and market insights.                      
 Reddit
 +11
 GitHub
